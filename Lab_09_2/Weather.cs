@@ -1,6 +1,6 @@
 namespace Lab_09_2;
 
-public class OneDayWeatherDataModel
+public class OneDayWeatherDataModel 
 {
     //Name of the City
     public string Name { get; set; }

@@ -1,0 +1,15 @@
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/bin/Debug/net7.0/Lab_09_2
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/bin/Debug/net7.0/Lab_09_2.deps.json
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/bin/Debug/net7.0/Lab_09_2.runtimeconfig.json
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/bin/Debug/net7.0/Lab_09_2.dll
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/bin/Debug/net7.0/Lab_09_2.pdb
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.AssemblyInfoInputs.cache
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.AssemblyInfo.cs
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.csproj.CoreCompileInputs.cache
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.sourcelink.json
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.dll
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/refint/Lab_09_2.dll
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.pdb
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/Lab_09_2.genruntimeconfig.cache
+/Users/pavelerokhin/CS_Labs/Lab_09_2/Lab_09_2/obj/Debug/net7.0/ref/Lab_09_2.dll
